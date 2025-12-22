@@ -1,4 +1,6 @@
-## Hi there 👋
+## ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ Hello friend, ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
+
+##My name is Kaitlyn and I'm an aspiring CS student based in Oklahoma
 
 <!--
 **ktnngn/ktnngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

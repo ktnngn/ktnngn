@@ -6,6 +6,8 @@ I discovered my love for programming in college and am currently trying to learn
 
 I'm most profficient in java and python, but am currently working on learning HTML, CSS, Javascript, and figma
 Join me as I disocver and learn new things and checkout my projects if you're interested ᯓ★
+(hakuFlying.png)
+
 
 <!--
 **ktnngn/ktnngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

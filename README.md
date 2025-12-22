@@ -6,7 +6,7 @@ I discovered my love for programming in college and am currently trying to learn
 
 I'm most profficient in java and python, but am currently working on learning HTML, CSS, Javascript, and figma <br>
 Join me as I disocver and learn new things and checkout my projects if you're interested ᯓ★
-(hakuFlying.png)
+![banner](hakuFlying.png)
 
 
 <!--

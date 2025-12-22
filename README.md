@@ -4,7 +4,7 @@ My name is Kaitlyn and I'm an aspiring CS student based in Oklahoma
 
 I discovered my love for programming in college and am currently trying to learn all the skills I need to create any project I want
 
-I'm most profficient in java and python, but am currently working on learning HTML, CSS, Javascript, and figma
+I'm most profficient in java and python, but am currently working on learning HTML, CSS, Javascript, and figma <br>
 Join me as I disocver and learn new things and checkout my projects if you're interested ᯓ★
 (hakuFlying.png)
 

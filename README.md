@@ -1,4 +1,4 @@
-## ⋆｡☁︎ Hello friend, ｡☁︎｡⋆ 
+## ⋆｡☁︎ Hello friend, ☁︎｡⋆ 
 
 My name is Kaitlyn and I'm an aspiring CS student based in Oklahoma
 
